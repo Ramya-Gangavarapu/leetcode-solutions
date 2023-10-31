@@ -6,6 +6,6 @@ This repository contains my solutions to various LeetCode problems, all implemen
 LeetCode is a fantastic platform for honing your coding skills and preparing for technical interviews. It offers a diverse range of algorithmic and data structure problems that challenge your problem-solving abilities and help you become a more proficient programmer. 💪
 
 # Connect with Me
-I'm always eager to connect with fellow programmers and problem solvers. You can find me on LinkedIn or Twitter. Let's learn and grow together! 🤝
+I'm always eager to connect with fellow programmers and problem solvers. You can find me on LinkedIn. Let's learn and grow together! 🤝
 
 ## Happy coding! 👨‍💻
